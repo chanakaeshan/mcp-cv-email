@@ -1,0 +1,18 @@
+{
+  "name": "mcp-cv-email-demo",
+  "private": true,
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev": "concurrently -n SERVER,WEB -c green,blue \"pnpm -C server dev\" \"pnpm -C web dev\""
+  },
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "@types/react": "19.1.12",
+    "concurrently": "^8.2.2",
+    "typescript": "5.9.2"
+  }
+}

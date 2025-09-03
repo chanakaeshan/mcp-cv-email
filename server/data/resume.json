@@ -1,0 +1,71 @@
+{
+  "basics": {
+    "name": "Chanaka Eshan",
+    "label": "Software & AI/ML Engineer",
+    "email": "chanaka@example.com",
+    "location": {
+      "city": "Colombo",
+      "countryCode": "LK"
+    },
+    "summary": "Full-stack engineer with experience in React, Node.js, and AI/ML. Built POS, weather, portfolio, and healthcare platforms."
+  },
+  "work": [
+    {
+      "name": "Insharp Technologies",
+      "position": "Software Engineer (.NET & React) \u2014 Interview Stage",
+      "startDate": "2024-12",
+      "endDate": "2025-01",
+      "summary": "Interview preparation and take-home assessments for a .NET & React role."
+    },
+    {
+      "name": "DETZ Global Pvt Ltd",
+      "position": "Full Stack Developer Intern (Contract)",
+      "startDate": "2025-07",
+      "endDate": "2025-08",
+      "summary": "Built Email-Enabled Student Registration backend and modern student registration frontend."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hela Medicine Platform",
+      "summary": "React + Node + MongoDB platform with practitioner directory, consultations, e-commerce, and ML recommendations."
+    },
+    {
+      "name": "SnapKey (Valorant Assistant)",
+      "summary": "React + Electron + Tailwind + Firebase app with crosshair presets, agent notes, and animations."
+    },
+    {
+      "name": "Sri Lanka Weather App",
+      "summary": "Next.js + React app with animated backgrounds and real-time weather visualization."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
+        ".NET"
+      ]
+    },
+    {
+      "name": "AI/ML",
+      "keywords": [
+        "Python",
+        "ML",
+        "LLM tooling",
+        "MCP"
+      ]
+    }
+  ]
+}
